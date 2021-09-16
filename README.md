@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Guilherme Huff "@BloomASPX"
+Guilherme Feier Huff "@BloomASPX"
 
 
 <!---
@@ -7,3 +7,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 Estudante de Ciências da Computação na UTFPR-SH
+Computer Science student in UTFPR-SH.
