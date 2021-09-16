@@ -10,4 +10,4 @@ Estudante de Ciências da Computação na UTFPR-SH / Computer Science student in
 <img src="https://static.wixstatic.com/media/24200e_97934924f1784580bd18f1b7216be9d3.png/v1/fill/w_173,h_128,al_c,q_85,usm_0.66_1.00_0.01/24200e_97934924f1784580bd18f1b7216be9d3.webp" alt="drawing" width="80"/>
 
 ---
-![JS](https://cdn-icons-png.flaticon.com/512/1199/1199124.png =40x) ![CSS3](https://cdn-icons-png.flaticon.com/512/888/888897.png =50x) ![HTML5](https://cdn-icons-png.flaticon.com/512/888/888909.png =50x)![JAVA](https://cdn-icons-png.flaticon.com/512/226/226777.png =50x) ![MySQL](https://cdn-icons-png.flaticon.com/512/274/274439.png =45x)
+![JS](https://cdn-icons-png.flaticon.com/512/1199/1199124.png=40x) ![CSS3](https://cdn-icons-png.flaticon.com/512/888/888897.png=50x) ![HTML5](https://cdn-icons-png.flaticon.com/512/888/888909.png=50x) ![JAVA](https://cdn-icons-png.flaticon.com/512/226/226777.png=50x) ![MySQL](https://cdn-icons-png.flaticon.com/512/274/274439.png=45x)
