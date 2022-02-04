@@ -14,8 +14,9 @@ Estudante de Ciências da Computação na UTFPR-SH / Computer Science student in
 <p> <img src= "https://cdn-icons-png.flaticon.com/512/888/888897.png" alt="drawing" width="45px"/> <img src= "https://cdn-icons-png.flaticon.com/512/888/888909.png" alt="drawing" width="45px"/> <img src= "https://cdn-icons-png.flaticon.com/512/5968/5968672.png" alt="drawing" width="40px"/> <img src= "https://cdn-icons-png.flaticon.com/512/1199/1199124.png" alt="drawing" width="40px"/> <img src= "https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="drawing" width="40px"/> <img src="https://img.icons8.com/color/48/000000/python--v1.png"/> <img src="https://cdn1.iconfinder.com/data/icons/hawcons/32/699871-icon-88-document-file-c-256.png" alt="drawing" width="45px"/> <img src= "https://cdn-icons-png.flaticon.com/512/274/274439.png" alt="drawing" width="45px"/> </p>
 
 ---
-
-
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=bloomaspx&theme=dark" alt="bloomaspx" /></p>
+<div>
+  <a href="https://github.com/bloomaspx/"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bloomaspx&layout=compact&theme=dark" alt="Top Languages"></a> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bloomaspx&show_icons=true&theme=dark" alt="GitHub Stats"> 
+</div>
 
 
