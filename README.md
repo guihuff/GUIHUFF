@@ -15,9 +15,6 @@ Estudante de Ciências da Computação na UTFPR-SH / Computer Science student in
 
 ---
 
-<p> <img src=" https://komarev.com/ghpvc/?username=bloomaspx&label=Visualiza%C3%A7%C3%B5es&color=000000&style=flat" alt="bloomaspx" /> </p>
-
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs ?username=bloomaspx&show_icons=true&theme=dark&locale=pt-br&layout=compact" alt="bloomaspx" /></p>
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=bloomaspx&theme=dark" alt="bloomaspx" /></p>
 
