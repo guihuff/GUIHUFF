@@ -5,6 +5,7 @@
 
 
 Estudante de Ciências da Computação na UTFPR-SH / Computer Science student in UTFPR-SH
+Estagiário em Nosso Olhar Solidário (NOS) / Intern in Nosso Olhar Solidário (NOS) [![NOS](https://utfpr-ct-static-content.s3.amazonaws.com/nossoolharsolidario.com.br/wp-content/uploads/2021/11/cropped-Property-1leftAlign-colorblack.png)](https://nossoolharsolidario.com.br/)
 
 ---
 ## **Contact Me**
