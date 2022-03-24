@@ -38,8 +38,8 @@ Estagiário em Nosso Olhar Solidário (NOS) / Intern in Nosso Olhar Solidário (
 
 ---
 <div align="center">
-  <a href="https://github.com/bloomaspx/"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bloomaspx&layout=compact&theme=dark" alt="Top Languages"></a> <br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bloomaspx&show_icons=true&theme=dark" alt="GitHub Stats"> 
+  <a href="https://github.com/GUIHUFF/"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GUIHUFF&layout=compact&theme=dark" alt="Top Languages"></a> <br>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GUIHUFF&show_icons=true&theme=dark" alt="GitHub Stats"> 
 </div>
 
 ---
