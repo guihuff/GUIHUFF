@@ -27,11 +27,16 @@ Estagiário em Nosso Olhar Solidário (NOS) / Intern in Nosso Olhar Solidário (
     <img src= "https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-256.png" alt="css" width="40px"/> 
     <img src= "https://cdn-icons-png.flaticon.com/512/5968/5968672.png" alt="bootstrap" width="40px"/> 
     <img src= "https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-256.png" alt="JavaScript" width="40px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="node" width="40px"/>
     <img src= "https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-256.png" alt="Java" width="45px"/>
     <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-256.png" alt="python" width="40px"/> 
     <img src="https://cdn3.iconfinder.com/data/icons/letters-and-numbers-1/32/letter_C_blue-256.png" alt="c" width="40px"/> 
     <img src= "https://cdn4.iconfinder.com/data/icons/logos-3/568/php-logo-256.png" alt="php" width="45px"/> 
-    <img src= "https://cdn4.iconfinder.com/data/icons/logos-3/181/MySQL-256.png" alt="sql" width="50px"/>  
+    <img src= "https://cdn4.iconfinder.com/data/icons/logos-3/181/MySQL-256.png" alt="sql" width="50px"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongo" width="45px"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="docker" width="45px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40px"/>
   </p>
 </div>
 
