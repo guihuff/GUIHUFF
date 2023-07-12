@@ -4,7 +4,7 @@
 
 
 
-Estudante de Ciências da Computação na UTFPR-SH / Computer Science student in UTFPR-SH 
+Estudante formando de Ciências da Computação na UTFPR-SH / Computer Science student in UTFPR-SH 
 
 
 
