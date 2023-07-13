@@ -50,11 +50,12 @@ Estudante formando de Ciências da Computação na UTFPR-SH / Computer Science s
 </div>
 
 ---
+<!--
 <div align="center">
   <a href="https://github.com/GUIHUFF/"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GUIHUFF&layout=compact&theme=dark" alt="Top Languages"></a> <br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guihuff&show_icons=true&theme=dark" alt="GitHub Stats"> 
 </div>
-
+-->
 ---
 <!--
 <p align="center"> texto que você quiser </p>
